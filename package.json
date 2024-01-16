@@ -1,0 +1,24 @@
+{
+  "name": "react-framework",
+  "version": "1.0.0",
+  "description": "This is React-practice project for testing react features",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlmstem/react-Framework.git"
+  },
+  "author": "mlmstem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlmstem/react-Framework/issues"
+  },
+  "homepage": "https://github.com/mlmstem/react-Framework#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
